@@ -45,6 +45,6 @@ MIT License https://opensource.org/license/mit-0/
 
 ## Links
 
-Github - https://github.com/JSheen98/match-point
+Github - https://github.com/dukanegolder/match-point
 
 Deployed - https://pure-spire-26458.herokuapp.com/
